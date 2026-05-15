@@ -1,4 +1,4 @@
-# FreeCAD MCP Server for VYASN
+# FreeCAD MCP Server
 
 Connect Gemini CLI to FreeCAD on Windows using the Model Context Protocol.
 
