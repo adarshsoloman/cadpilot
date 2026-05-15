@@ -1,0 +1,9 @@
+[project]
+name = "freecad-mcp"
+version = "0.1.0"
+description = "FreeCAD MCP Server for VYASN"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "python-dotenv>=1.2.2",
+]

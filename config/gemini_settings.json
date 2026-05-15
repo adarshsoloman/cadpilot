@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "freecad": {
+      "command": "uv",
+      "args": [
+        "run",
+        "D:/ADARSH/15_Freelance/VYASAN/Phase_0/freecad_mcp/server/freecad_mcp_server.py"
+      ],
+      "description": "Controls FreeCAD 3D modeling. Use this to create 3D models, shapes, and export files. Supports primitives, boolean operations, transforms, and raw FreeCAD Python execution.",
+      "env": {
+        "FREECAD_PATH": "C:/Program Files/FreeCAD 1.1/bin/FreeCAD.exe",
+        "FREECAD_PYTHON_PATH": "C:/Program Files/FreeCAD 1.1/bin/python.exe",
+        "OUTPUT_DIR": "D:/ADARSH/15_Freelance/VYASAN/Phase_0/freecad_mcp"
+      }
+    }
+  }
+}
